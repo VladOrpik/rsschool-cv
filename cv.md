@@ -30,3 +30,20 @@ Hardworking, ready to work in a team, sociable.
 3)Editors
 - Figma
 - Avocode
+
+# Code examples
+```javascript
+function test() {
+console.log("noticeblank line before this function?");
+}
+```
+
+# Work experience
+
+# Education
+Grgu them. Yanka Kupala, Grodno (Belarus)
+I am a 3nd year student, Faculty of Mathematics and Informatics, specialty Management information resources.
+Completed courses: Algorithms part 1 and part 2
+
+#English language
+- A2
