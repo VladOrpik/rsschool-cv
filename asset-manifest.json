@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/rsschool-cv/static/css/main.b2871d76.chunk.css",
+    "main.js": "/rsschool-cv/static/js/main.c829b10c.chunk.js",
+    "main.js.map": "/rsschool-cv/static/js/main.c829b10c.chunk.js.map",
+    "runtime-main.js": "/rsschool-cv/static/js/runtime-main.21836b23.js",
+    "runtime-main.js.map": "/rsschool-cv/static/js/runtime-main.21836b23.js.map",
+    "static/css/2.f2512455.chunk.css": "/rsschool-cv/static/css/2.f2512455.chunk.css",
+    "static/js/2.a0e4b7aa.chunk.js": "/rsschool-cv/static/js/2.a0e4b7aa.chunk.js",
+    "static/js/2.a0e4b7aa.chunk.js.map": "/rsschool-cv/static/js/2.a0e4b7aa.chunk.js.map",
+    "static/js/3.357bafbb.chunk.js": "/rsschool-cv/static/js/3.357bafbb.chunk.js",
+    "static/js/3.357bafbb.chunk.js.map": "/rsschool-cv/static/js/3.357bafbb.chunk.js.map",
+    "index.html": "/rsschool-cv/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/rsschool-cv/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.b2871d76.chunk.css.map": "/rsschool-cv/static/css/main.b2871d76.chunk.css.map",
+    "static/js/2.a0e4b7aa.chunk.js.LICENSE.txt": "/rsschool-cv/static/js/2.a0e4b7aa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21836b23.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.a0e4b7aa.chunk.js",
+    "static/css/main.b2871d76.chunk.css",
+    "static/js/main.c829b10c.chunk.js"
+  ]
+}
